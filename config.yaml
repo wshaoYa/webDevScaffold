@@ -14,7 +14,7 @@ mysql:
   host: "127.0.0.1"
   port: 3306
   user: "root"
-  password: "sw6813329"
+  password: "root"
   dbname: "person_practice"
   max_open_conns: 100
   max_idle_conns: 30

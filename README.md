@@ -14,12 +14,12 @@ web development scaffold  （golang web开发通用脚手架-模板）
 
 ## main.go 程序入口
 
-1. viper 加载配置
-2. zap 初始化日志
-3. sqlx 初始化mysql连接
-4. go-redis 初始化redis连接
-5. gin 注册路由
-6. endless 启动服务(优雅关机、重启)
+1. `viper` 加载配置
+2. `zap` 初始化日志
+3. `sqlx` 初始化mysql连接
+4. `go-redis` 初始化redis连接
+5. `gin` 注册路由
+6. `endless` 启动服务(优雅关机、重启)
 
 ## **项目来源**
 
