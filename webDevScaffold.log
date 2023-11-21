@@ -1,0 +1,44 @@
+{"level":"INFO","ts":"2023-11-20T16:16:00.556+0800","caller":"webDevScaffold/main.go:28","msg":"logger init success"}
+{"level":"INFO","time":"2023-11-20T16:16:19.822+0800","caller":"webDevScaffold/main.go:28","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-11-20T16:37:32.221+0800","caller":"webDevScaffold/main.go:30","msg":"logger init success"}
+{"level":"ERROR","time":"2023-11-20T16:37:32.250+0800","caller":"mysql/mysql.go:23","msg":"sqlx connect error !! ","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"ERROR","time":"2023-11-20T16:37:32.250+0800","caller":"webDevScaffold/main.go:34","msg":"mysql init error !! ","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2023-11-20T16:37:32.262+0800","caller":"webDevScaffold/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2023-11-20T16:39:14.920+0800","caller":"webDevScaffold/main.go:33","msg":"logger init success"}
+{"level":"ERROR","time":"2023-11-20T16:39:14.950+0800","caller":"mysql/mysql.go:23","msg":"sqlx connect error !! ","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"ERROR","time":"2023-11-20T16:39:14.951+0800","caller":"webDevScaffold/main.go:37","msg":"mysql init error !! ","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2023-11-20T16:41:30.602+0800","caller":"webDevScaffold/main.go:33","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-11-20T16:41:30.636+0800","caller":"webDevScaffold/main.go:49","msg":"mysql init success"}
+{"level":"DEBUG","time":"2023-11-20T17:13:03.518+0800","caller":"webDevScaffold/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-11-20T17:13:03.552+0800","caller":"webDevScaffold/main.go:50","msg":"mysql init success"}
+{"level":"DEBUG","time":"2023-11-20T17:13:21.959+0800","caller":"webDevScaffold/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-11-20T17:13:21.991+0800","caller":"webDevScaffold/main.go:50","msg":"mysql init success"}
+{"level":"DEBUG","time":"2023-11-20T17:13:21.994+0800","caller":"webDevScaffold/main.go:66","msg":"redis init success"}
+{"level":"DEBUG","time":"2023-11-20T17:34:04.977+0800","caller":"webDevScaffold/main.go:37","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-11-20T17:34:05.023+0800","caller":"webDevScaffold/main.go:53","msg":"mysql init success"}
+{"level":"DEBUG","time":"2023-11-20T17:34:05.029+0800","caller":"webDevScaffold/main.go:69","msg":"redis init success"}
+{"level":"ERROR","time":"2023-11-20T17:34:30.555+0800","caller":"webDevScaffold/main.go:78","msg":"endless.ListenAndServe error ! ","error":"accept tcp [::]:9090: use of closed network connection"}
+{"level":"DEBUG","time":"2023-11-20T17:36:54.864+0800","caller":"webDevScaffold/main.go:37","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-11-20T17:36:54.919+0800","caller":"webDevScaffold/main.go:53","msg":"mysql init success"}
+{"level":"DEBUG","time":"2023-11-20T17:36:54.925+0800","caller":"webDevScaffold/main.go:69","msg":"redis init success"}
+{"level":"INFO","time":"2023-11-20T17:37:34.424+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime-ApipostRuntime/1.1.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T17:38:07.015+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime-ApipostRuntime/1.1.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T17:38:07.931+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime-ApipostRuntime/1.1.0","errors":"","cost":0.0010406}
+{"level":"INFO","time":"2023-11-20T17:38:08.792+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime-ApipostRuntime/1.1.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T17:38:09.634+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime-ApipostRuntime/1.1.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T17:38:10.446+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime-ApipostRuntime/1.1.0","errors":"","cost":0}
+{"level":"ERROR","time":"2023-11-20T17:38:41.722+0800","caller":"webDevScaffold/main.go:78","msg":"endless.ListenAndServe error ! ","error":"accept tcp [::]:9090: use of closed network connection"}
+{"level":"DEBUG","time":"2023-11-20T19:55:45.027+0800","caller":"webDevScaffold/main.go:37","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-11-20T19:55:45.070+0800","caller":"webDevScaffold/main.go:53","msg":"mysql init success"}
+{"level":"ERROR","time":"2023-11-20T19:55:45.071+0800","caller":"webDevScaffold/main.go:57","msg":"redis init error ! ","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"DEBUG","time":"2023-11-20T19:57:21.005+0800","caller":"webDevScaffold/main.go:37","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-11-20T19:57:21.023+0800","caller":"webDevScaffold/main.go:53","msg":"mysql init success"}
+{"level":"DEBUG","time":"2023-11-20T19:57:21.027+0800","caller":"webDevScaffold/main.go:69","msg":"redis init success"}
+{"level":"INFO","time":"2023-11-20T19:58:24.360+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0","errors":"","cost":0.0005309}
+{"level":"INFO","time":"2023-11-20T19:58:34.260+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T19:58:35.592+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T19:58:36.068+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T19:58:36.456+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T19:58:36.852+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0","errors":"","cost":0}
+{"level":"INFO","time":"2023-11-20T19:58:37.321+0800","caller":"logger/logger.go:70","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0","errors":"","cost":0}
+{"level":"ERROR","time":"2023-11-20T20:16:10.523+0800","caller":"webDevScaffold/main.go:78","msg":"endless.ListenAndServe error ! ","error":"accept tcp [::]:9090: use of closed network connection"}

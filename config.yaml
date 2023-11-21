@@ -1,0 +1,28 @@
+name: "web_dev_scaffold"
+mode: "dev"
+version: "0.1.0"
+port: 9090
+
+log:
+  level: "debug"
+  filename: "webDevScaffold.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 5
+
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: "sw6813329"
+  dbname: "person_practice"
+  max_open_conns: 100
+  max_idle_conns: 30
+
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: ""
+  db: 0
+  pool_size: 20
+
