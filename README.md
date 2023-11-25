@@ -27,3 +27,11 @@ web development scaffold  （golang web开发通用脚手架-模板）
 
 - [【置顶】Go语言学习之路/Go语言教程 | 李文周的博客 (liwenzhou.com)](https://www.liwenzhou.com/posts/Go/golang-menu/)
 - [Go Web开发进阶实战（gin框架） - 网易云课堂 (163.com)](https://study.163.com/course/courseMain.htm?courseId=1210171207)
+
+## 自使用注意事项
+
+- 配置文件-更改
+  - 项目名称、日志名称、数据库密码、端口等
+- 引用包名称-更改
+  - `import` 项目内的包时，第一目录名称由 `webDevScaffold` 改成自己项目名称
+- 自行增加 controller、logic/service、models、pkg等目录（待后续补充完善此仓库qwq）
